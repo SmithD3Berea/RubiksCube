@@ -29,3 +29,9 @@ header sub-heading{
 font-size: 40px;
 }
 
+h2{
+    color: rgb(254, 254, 254);
+    display: flex;
+    align-items: center;
+    height: 20vh
+}
