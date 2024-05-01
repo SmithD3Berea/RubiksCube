@@ -1,0 +1,31 @@
+.cube {
+    display: inline-block;
+justify-content: space-between;
+}
+
+body {
+    margin: 0;
+    padding:0;
+    height: 100vh;
+background-color: rgb(128, 128, 128);
+}
+
+header{
+    color: aqua;
+    display:flex;
+    align-items: center;
+    height: 20vh;
+}
+
+header h1 {
+    align-items: center;
+    margin: 0;
+    font-size: 100px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header sub-heading{
+    margin: 0;
+font-size: 40px;
+}
+
